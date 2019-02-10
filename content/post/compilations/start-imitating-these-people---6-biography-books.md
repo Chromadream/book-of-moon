@@ -30,9 +30,9 @@ An Enthusiastic young person passionate about business, travelled around the wor
 
 ## 4. The Mamba Mentality (Kobe Bryant)
 
-    5 x NBA Champion brings us how training,mentality, and mindset is critical in life inside and outside the court.
+5 x NBA Champion brings us how training,mentality, and mindset is critical in life inside and outside the court.
 
-    His work ethic and knowledge will inspire young generation to understand the value in patience, hard work and dedication toward something you love.
+His work ethic and knowledge will inspire young generation to understand the value in patience, hard work and dedication toward something you love.
 
 ## 5. Becoming (Michelle Obama)
 
