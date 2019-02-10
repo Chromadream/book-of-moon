@@ -1,0 +1,20 @@
+baseURL = "http://www.bookofmoons.com/"
+title = "Book of Moons"
+languageCode = "en"
+theme = "minimage"
+copyright = "Book of Moons (c) 2019"
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+[[menu.global]]
+  name = "Categories"
+  url = "/categories"
+[[menu.global]]
+  name = "Compilations"
+  url = "/categories/compilations/"
+
+[[menu.footer]]
+name = "About"
+url = "/page/about"
