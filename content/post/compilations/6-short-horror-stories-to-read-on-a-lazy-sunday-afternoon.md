@@ -5,7 +5,7 @@ draft: false
 author: "James W."
 categories: ["post","compilations"]
 tags: ["short-story","creepypasta"]
-image: 'img/filename'
+image: 'img/zachary-keimig-1353543-unsplash.jpg'
 ---
 
 If you're a fan of Stephen King, Anthony Horowitz or just enjoy an occasional short story, these 6 five-minute reads should provide all the entertainment you could wish for on those hot, boring afternoons. Mixing elements of the supernatural, science-fiction and the plain weird, I've chosen these stories as examples that showcase the creativity and imagination of today's online authors.
