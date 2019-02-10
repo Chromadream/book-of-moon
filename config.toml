@@ -15,6 +15,10 @@ tag = "tags"
   name = "Compilations"
   url = "/categories/compilations/"
 
+[[menu.global]]
+  name = "About"
+  url = "/page/about"
+
 [[menu.footer]]
 name = "About"
 url = "/page/about"
