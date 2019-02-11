@@ -11,5 +11,5 @@ cd public
 surge .
 cd ..
 git add -A
-git commit -m "content update"
+git commit -m "update $(date)"
 git push
