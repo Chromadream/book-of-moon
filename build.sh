@@ -4,7 +4,12 @@ find . -maxdepth 1 -iname "*.jpg" | xargs -L1 -I{} convert -resize 50% "{}" "{}.
 mv *.rsz ../
 cd ..
 rename -v 's/.rsz//' *
+rm -f *.rsz
 cd ../..
 hugo
 cd public
 surge .
+cd ..
+git add static/img/*
+git commit -m "resized images"
+git push
