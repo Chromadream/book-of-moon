@@ -8,7 +8,6 @@
 
 # generated files by hugo
 /public/
-!/public/.surgeignore
 /resources/_gen/
 
 # executable may be added to repository

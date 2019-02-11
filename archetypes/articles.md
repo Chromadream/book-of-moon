@@ -4,4 +4,5 @@ date: {{ .Date }}
 draft: true
 author: username
 categories: ["post","articles"]
+image: "img/filename"
 ---
