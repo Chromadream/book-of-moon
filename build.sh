@@ -10,6 +10,6 @@ hugo
 cd public
 surge .
 cd ..
-git add static/img/*
-git commit -m "resized images"
+git add -A
+git commit -m "content update"
 git push
