@@ -33,4 +33,4 @@ Feedback that your brain uses to decide if the habit is something useful to reme
 
 Regularly ask yourself, “Did this book change my perspective?” "Was I entertained with how the writer expressed his ideas?" "Was I intrigued by the characters and the plotline?"
 
-    I believe everyone should get into the habit of reading. Regardless of the genre, a great book or article will bring you value in multiple forms. Personally, I find reading regularly has improved my memory, my imagination and my critical thinking skills.
+I believe everyone should get into the habit of reading. Regardless of the genre, a great book or article will bring you value in multiple forms. Personally, I find reading regularly has improved my memory, my imagination and my critical thinking skills.
