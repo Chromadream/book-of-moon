@@ -4,7 +4,7 @@ date: 2019-02-11T22:19:38+11:00
 draft: false
 author: "Handy H."
 categories: ["post","articles"]
-image: "img/lachlan-gowen-1350992-unsplash.jpg"
+image: "img/annie-spratt-76930-unsplash.jpg"
 ---
 
 *“Reading is to the mind what exercise is to the body”, Sir Richard Steele.*
