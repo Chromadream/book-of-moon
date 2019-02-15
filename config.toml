@@ -19,6 +19,10 @@ tag = "tags"
   name = "About"
   url = "/page/about"
 
+[[menu.global]]
+  name = "Write for us!"
+  url = "https://docs.google.com/forms/d/15IUC1uZ66TIw3ErgUOKjWcFTJQW8EV-4w-1u2QXjOWQ/"
+
 [[menu.footer]]
 name = "About"
 url = "/page/about"

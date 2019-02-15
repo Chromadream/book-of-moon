@@ -36,7 +36,7 @@ His work ethic and knowledge will inspire young generation to understand the val
 
 ## 5. Becoming (Michelle Obama)
 
-First Black Female President of the United States. This book delves into her roots and how she found her voice, as well as her time as First Lady in the White House, her public health campaign, and her role as a mother.
+The Wife of First Black President of the United States. This book delves into her roots and how she found her voice, as well as her time as First Lady in the White House, her public health campaign, and her role as a mother.
 
 Deeply personal and heartwarming. This book also share the exhausting and beautiful lifestyle& moment of his husband political rise.
 
