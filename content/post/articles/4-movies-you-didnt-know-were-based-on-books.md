@@ -14,7 +14,7 @@ Here are some books that were adapted into box office movies.
 
 ## The Shawshank Redemption (1994)
 
-![Shawshank Redemption](/inline/shawstank.gif)
+![Shawshank Redemption](/inline/shawshank.gif)
 
 Remember Red, hope is a good thing, maybe the best of things, and no good thing ever dies. -Andy Dufresne
 One of the all time classic. You can’t go wrong watching the movie and reading the novel
