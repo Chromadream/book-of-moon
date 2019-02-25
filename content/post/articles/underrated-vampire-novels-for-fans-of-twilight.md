@@ -7,6 +7,8 @@ categories: ["post","articles"]
 image: "img/leonardo-yip-380401-unsplash.jpg"
 ---
 
+![idk](/inline/vampire.gif)
+
 When we hear “vampire story”, the famous (or infamous) “Twilight” series of books and films comes to most people’s minds, with its too-good-to-be-true love story. If not “Twilight”, then it’s the popular series “Vampire Dairies” and the accompanying hit TV series. While both of these books have gained immense popularity around the world, in part due to their film and television adaptations, there are other vampire novels out there which have yet to achieve global recognition. Here are two that I’ve discovered which I wanted to share with you, my vampire-loving bookworms.
 
 ## Southern Vampire Mysteries
