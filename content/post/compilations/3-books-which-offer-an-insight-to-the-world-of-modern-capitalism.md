@@ -5,6 +5,7 @@ draft: false
 author: "James W."
 categories: ["post","compilations"]
 tags: ["all-the-devils-are-here","flash-boys","bean-counters"]
+images: ['img/liam-macleod-1357580-unsplash.jpg']
 image: 'img/liam-macleod-1357580-unsplash.jpg'
 ---
 

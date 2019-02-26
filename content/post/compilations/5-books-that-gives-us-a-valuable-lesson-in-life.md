@@ -5,6 +5,7 @@ draft: false
 author: "Handy H."
 categories: ["post","compilations"]
 tags: ["tuesday-with-morrie","alchemist","last-lecture","mans-search-for-meaning","perks-of-being-a-wallflower"]
+images: ['img/rawpixel-661940-unsplash.jpg']
 image: 'img/rawpixel-661940-unsplash.jpg'
 ---
 

@@ -4,6 +4,7 @@ date: 2019-02-19T18:42:38+11:00
 draft: false
 author: "Handy H."
 categories: ["post","articles"]
+images: ["img/malte-wingen-381988-unsplash.jpg"]
 image: "img/malte-wingen-381988-unsplash.jpg"
 ---
 *“I've never listened to an audiobook before, and I have to say it's a totally different experience. When you read a book, the story definitely takes place in your head. When you listen, it seems to happen in a little cloud all around it, like a fuzzy knit cap pulled down over your eyes”* - __Robin Sloan__

@@ -5,6 +5,7 @@ draft: false
 author: "James W."
 categories: ["post","compilations"]
 tags: ["short-story","creepypasta"]
+images: ['img/zachary-keimig-1353543-unsplash.jpg']
 image: 'img/zachary-keimig-1353543-unsplash.jpg'
 ---
 

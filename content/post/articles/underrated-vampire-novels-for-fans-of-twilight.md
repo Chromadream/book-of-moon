@@ -4,6 +4,7 @@ date: 2019-02-25T20:36:21+11:00
 draft: false
 author: "Afia Lodi"
 categories: ["post","articles"]
+images: ["img/leonardo-yip-380401-unsplash.jpg"]
 image: "img/leonardo-yip-380401-unsplash.jpg"
 ---
 

@@ -5,6 +5,7 @@ draft: false
 author: "Handy H."
 categories: ["post","compilations"]
 tags: ["how-to-win-friends-and-influence-people","ego-is-the-enemy","think-and-grow-rich","the-magic-of-thinking-big"]
+images: ['img/rawpixel-740323-unsplash.jpg']
 image: 'img/rawpixel-740323-unsplash.jpg'
 ---
 

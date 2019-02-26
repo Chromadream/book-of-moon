@@ -5,6 +5,7 @@ draft: false
 author: "Handy H."
 categories: ["post","compilations"]
 tags: ["steve-jobs","cristiano-ronaldo","shoe-dog","mamba-mentality","becoming"]
+images: ['img/samuel-zeller-358865-unsplash.jpg']
 image: 'img/samuel-zeller-358865-unsplash.jpg'
 ---
 
