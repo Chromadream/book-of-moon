@@ -33,9 +33,9 @@
         <footer class="c-post__footer">
           {{ partial "share.html" . }}
 
-          {{ partial "pager.html" . }}
-
           {{ template "_internal/disqus.html" . }}
+
+          {{ partial "pager.html" . }}
         </footer>
         {{ partial "json-single.html" . }}
       </article>
