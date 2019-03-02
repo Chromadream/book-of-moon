@@ -3,6 +3,7 @@ title = "Book of Moons"
 languageCode = "en"
 theme = "minimage"
 copyright = "Book of Moons (c) 2019"
+disqusShortname = "book-of-moons"
 
 [taxonomies]
 category = "categories"
