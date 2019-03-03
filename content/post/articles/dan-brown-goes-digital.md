@@ -1,7 +1,7 @@
 ---
 title: "Dan Brown Goes Digital"
 date: 2019-03-03T23:11:25+11:00
-draft: true
+draft: false
 author: "Afia Lodi"
 categories: ["post","articles"]
 images: ["img/ari-he-317209-unsplash.jpg"]
