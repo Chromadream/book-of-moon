@@ -1,5 +1,5 @@
 ---
-title: "The Grotesque Protagonist in the Work of Flannery O'Connor"
+title: "Blurring the lines of good and evil: A study of Flannery O'Connor's works"
 date: 2019-03-04T21:34:16+11:00
 draft: false
 author: "Thomas Waddingham"
