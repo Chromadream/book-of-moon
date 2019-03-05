@@ -1,5 +1,5 @@
 ---
-title: "Brooklyn Dont Judge a Book Based on the Movie"
+title: "Brooklyn: Don't Judge a Book Based on the Movie"
 date: 2019-03-05T22:26:46+11:00
 draft: false
 author: "Amber Cull"
@@ -8,7 +8,7 @@ images: ["img/53140474_967664073623536_4654625091408101376_n.jpg"]
 image: "img/53140474_967664073623536_4654625091408101376_n.jpg"
 ---
 
-![Brooklyn](inline/brooklyn.gif)
+![Brooklyn](/inline/brooklyn.gif)
 
 Let’s face it. The act of reading out of interest rather than necessity is a dying art. This could be blamed on multiple things. The ever globalising world, accessibility of other hobbies, the fast paced lifestyle we all tend to be swept up in. But personally I think it’s all due to the transition of books to movies.  No judgement here, we all love a good movie. But those of us that are advocates of the books still are often heard proclaiming: “The movie was alright, but not as good as the book.”  So yes, call me a snob if you will. But this is me saying the book was better than the movie. The first book I’ve chosen to write on is possibly my favourite book of all time. Colm Tóibín’s “Brooklyn” (2009). Adapted to film in 2015, it was recently uploaded to Netflix and scored a solid 7.5/10 on IMDb. There is no doubt the film was good and captured the heart of Tóibín’s work, but the book was better. 
 
