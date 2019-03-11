@@ -103,6 +103,10 @@ button {
     transition: 0.3s cubic-bezier(0.165, 0.84, 0.44, 1) 0s
 }
 
+.c-archive-list__item:first-of-type {
+    height: 30em;
+}
+
 .c-archive-list__item+.c-archive-list__item {
     margin-top: 20px
 }
@@ -145,21 +149,21 @@ button {
 
 @media screen and (max-width: 768px) {
     .c-container {
-        max-width: 768px
-    }
-}
-
-@media screen and (max-width: 768px) {
-    .c-container {
         max-width: 768px;
         padding-left: 20px;
         padding-right: 20px
+    }
+    .c-archive-list__item:first-of-type{
+        height: 17em;
     }
 }
 
 @media screen and (max-width: 320px) {
     .c-container {
         max-width: 320px
+    }
+    .c-archive-list__item:first-of-type{
+        height: 12.1em;
     }
 }
 
