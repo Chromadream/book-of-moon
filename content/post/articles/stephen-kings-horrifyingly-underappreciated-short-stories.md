@@ -30,16 +30,16 @@ Revolving around a single character, this story contains a dark and cynical view
 
 ## That Bus Is Another World
 
-![That Bus Is Another World](/inline/stephen-king-short-stories/03.png)
+![That Bus Is Another World](/inline/stephen-king-short-stories/04.png)
 
 Inspired by the traffic of Paris, this story is notable for its capability to challenge our sense of morality and societal attitudes within the typically mundane scene of taking a taxi in rush hour traffic. The character witnesses a brutal crime on a nearby bus and must make a difficult decision; does he do something to try and help or does he ignore it, justifying the latter decision because there are other people around who could help instead. The moral dilemma presented to the man, and his ultimate decision, is a cold reflection on societal attitudes that is as simultaneously chilling and realistic as any other piece of horror written by King.
 
 ## The End of the Whole Mess
 
-![The End of the Whole Mess](/inline/stephen-king-short-stories/03.png)
+![The End of the Whole Mess](/inline/stephen-king-short-stories/05.png)
 
 This story is one of the older ones in this list, being first published in 1986 makes it older than I am, and it is also very distinct due to its science fiction nature. The story revolves around a duo of brothers who discover a chemical which induces non-aggression in humans. The story ultimately serves as a cautionary tale, gripping us to the very last page with each twist reveal used by King to remind us that the road to hell is paved with good intentions.
 
-## Conclusion
+## Final thoughts
 
 Stephen King’s short stories are often overlooked in favour of his novels, but I believe that his short stories deserve more attention. They often tackle very real issues in human life and I chose to highlight the five particular stories above because they exemplify King’s ability to reflect the nuances and intricacies of these issues in his own fictional works.
