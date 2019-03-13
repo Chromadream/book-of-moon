@@ -15,6 +15,10 @@ true historical recounts. This is likely what draws us into the embrace of histo
 first place. After all, surely the author wouldn’t dare stray from the true timeline of the past? That’s
 where I think many of those in our generation are mistaken.
 
+## What We Were Taught in School
+
+![heading1](/inline/heading-gifs/Sierra1.gif)
+
 Throughout school, we are taught to never falsify our facts, and to present our information in
 a format that is engaging for whoever may take the time out of their day to absorb the content we
 produce. It’s only natural for us to have ingrained trust in any artist, author, or director because of
@@ -32,6 +36,10 @@ Does it reflect our innate desire for a good story, or our human lust for knowle
 
 In short, I believe it to be both.
 
+## A Trip Back in Time
+
+![heading2](/inline/heading-gifs/sierra2.gif)
+
 Let’s take a quick trip down memory lane, all the way back to the Stone Age. You know, the
 one that people automatically associate with the idea of cavemen? Yep, that one. About 2.5
 million years ago, our ancestors depicted their stories of triumph and woe on cold cave walls that
@@ -44,6 +52,8 @@ Many of these ancient tellings were the keys to survival, and without them, many
 would not have lived. Stories of which plants were edible and how best to find shelter were key to
 human survival. Arguably, knowledge is the key to survival, and this is why we are drawn to the
 historical aspect of fiction. Simply put, we do not wish to repeat the deadly mistakes of others.
+
+## Wrap Up
 
 I believe historical fiction triumphs over historical non-fiction due to the lack of analysis
 involved. Many historical texts involve in-depth analysis of “why things are the way they are”, an

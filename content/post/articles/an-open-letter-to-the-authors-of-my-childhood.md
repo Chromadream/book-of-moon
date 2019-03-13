@@ -10,11 +10,15 @@ image: "img/freddy-castro-133326-unsplash.jpg"
 
 Geronimo Stilton, Daisy Meadows, Chris d’Lacey, and many more; this one is for you.
 
+![heading1](/inline/heading-gifs/sierrasecond.gif)
+
 I’ll start by saying thank you for giving me my love of reading. Without my chaotically organised
 bookshelf of cheesy adventures, magical mysteries, and fiery fables, I doubt my love of reading
 would have developed as deeply and as quickly as it did. I grew up dreaming of the stories I
 would write and share, yearning for my own dramatic tellings. Without you all silently guiding me
 from the pages of your books, who knows what I would have pursued through to adulthood.
+
+## Gratitude.
 
 Thank you for showing me the diversity of the writing world. Geronimo Stilton, your animated
 novels of adventure were my first taste of journalism, however cheesy it may have been. Had I not
