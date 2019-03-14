@@ -2,10 +2,10 @@
 title: "Why I Will Always Have Hope for an Old School Love"
 date: 2019-03-14T22:11:55+11:00
 draft: false
-author: username
+author: "Nikitha Pooventhan"
 categories: ["post","articles"]
-images: ["img/filename"]
-image: "img/filename"
+images: ["img/ryan-holloway-276366-unsplash.jpg"]
+image: "img/ryan-holloway-276366-unsplash.jpg"
 ---
 
 Here is why I prefer the old school love instead of the love millennial go through these
