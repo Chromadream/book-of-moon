@@ -1,5 +1,5 @@
 ---
-title: "The Seven Husbands of Evelyn Hugo"
+title: "The Seven Husbands Of Evelyn Hugo: Definitely Not Your Ordinary Romance Novel"
 date: 2019-03-17T23:23:32+11:00
 draft: false
 author: "Alyx Shaw"
@@ -23,7 +23,7 @@ Yes, you read that right. Our main character Evelyn Hugo had seven different hus
 
 ![third](/inline/seven-husbands/third.gif)
 
-Don’t be fooled by the books title, because deep down this is the true story of Evelyn Hugo, the pure unedited truth, behind the façade that she had to display throughout her entire life. Evelyn Hugo was a Cuban woman aspiring to make it in a white man’s world, split between being out and proud about her heritage and supressing it to gain the Hollywood fame that she’s always wanted, and, for a long time she did supress herself. This is what makes her such a deeply flawed yet still likeable character, one that you just keep waning to know more about, because she’s lied, because she’s got faults and flaws, because she is human. This is a woman who’s desperate to have her real story heard, the one that shows us how cutthroat it is to succeed in Hollywood, the realistic complexities of her marriages, divorces, her one true love and of course the mystery of why she chose Monique Grant to write her biography.
+Don’t be fooled by the books title, because deep down this is the true story of Evelyn Hugo, the pure unedited truth, behind the façade that she had to display throughout her entire life. Evelyn Hugo was a Cuban woman aspiring to make it in a white man’s world, split between being out and proud about her heritage and supressing it to gain the Hollywood fame that she’s always wanted, and, for a long time she did supress herself. This is what makes her such a deeply flawed yet still likeable character, one that you just keep wanting to know moreabout, because she’s lied, because she’s got faults and flaws, because she is human. This is a woman who’s desperate to have her real story heard, the one that shows us how cutthroat it isto succeed in Hollywood, the realistic complexities of her marriages, divorces, her one true love and of course the mystery of why she chose Monique Grant to write her biography
 
 ## THE HUSBANDS
 
