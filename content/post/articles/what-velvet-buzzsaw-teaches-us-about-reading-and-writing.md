@@ -4,8 +4,8 @@ date: 2019-03-17T23:13:35+11:00
 draft: false
 author: "Thomas Waddingham"
 categories: ["post","articles"]
-images: ["img/49949905_798558270486302_4863913440378355712_n.png"]
-image: "img/49949905_798558270486302_4863913440378355712_n.png"
+images: ["img/49949905_798558270486302_4863913440378355712_n.jpg"]
+image: "img/49949905_798558270486302_4863913440378355712_n.jpg"
 ---
 Velvet Buzzsaw is a Netflix film offering a commentary regarding the fine art world and a satirical view of the people who populate it. Despite its brilliant cast including Jake Gyllenhaal and John Malkovich, the film is now mostly remembered as a B-grade horror film with a rather niche group of fans. When I watched the film, I largely felt that it was enjoyable but not as amazing as it aspired to be. Despite this feeling however, what it does well, it does exceptionally well. There are certain messages and questions the film raised which stood out and resonated with me because they extend beyond the world of fine art and more into day-to-day life, including our own reading and writing behaviours.
 
