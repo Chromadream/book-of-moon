@@ -3,7 +3,7 @@ title: "Why Reading Is Boring and Hard as Fuck"
 date: 2019-02-15T19:10:02+11:00
 draft: false
 author: "Handy H. & James W."
-categories: ["post","articles"]
+categories: ["post","articles","personal development"]
 images: ["img/francisco-moreno-255749-unsplash.jpg"]
 image: "img/francisco-moreno-255749-unsplash.jpg"
 ---

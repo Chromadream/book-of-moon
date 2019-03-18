@@ -3,7 +3,7 @@ title: "The Triumph of Historical Fiction"
 date: 2019-03-03T17:17:47+11:00
 draft: false
 author: "Sierra Haigh"
-categories: ["post","articles"]
+categories: ["post","articles","fiction"]
 images: ["img/53435313_564731560676544_6930071672175198208_n.jpg"]
 image: "img/53435313_564731560676544_6930071672175198208_n.jpg"
 ---

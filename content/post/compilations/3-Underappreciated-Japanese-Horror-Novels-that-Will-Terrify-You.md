@@ -3,7 +3,7 @@ author: "Mirakurun"
 title: "3 Underappreciated Japanese Horror Novels that Will Terrify You"
 date: 2019-02-10T13:45:21+11:00
 draft: false
-categories: ["post", "compilations"]
+categories: ["post", "compilations", "anime/japan"]
 tags: ["parasite-eve","zoo","another"]
 images: ['img/m-wrona-254897-unsplash.jpg']
 image: 'img/m-wrona-254897-unsplash.jpg'

@@ -3,7 +3,7 @@ title: "3 Books Which Offer an Insight to the World of Modern Capitalism"
 date: 2019-02-11T21:48:44+11:00
 draft: false
 author: "James W."
-categories: ["post","compilations"]
+categories: ["post","compilations","non-fiction"]
 tags: ["all-the-devils-are-here","flash-boys","bean-counters"]
 images: ['img/liam-macleod-1357580-unsplash.jpg']
 image: 'img/liam-macleod-1357580-unsplash.jpg'

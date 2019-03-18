@@ -3,7 +3,7 @@ title: "Why Bother with Delegated Books in High School?"
 date: 2019-03-06T23:27:28+11:00
 draft: false
 author: "Sao Hew"
-categories: ["post","articles"]
+categories: ["post","articles","general"]
 images: ["img/waldemar-brandt-1178260-unsplash.jpg"]
 image: "img/waldemar-brandt-1178260-unsplash.jpg"
 ---

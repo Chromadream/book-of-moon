@@ -3,7 +3,7 @@ title: "Benefits of Listening to Audiobook"
 date: 2019-02-19T18:42:38+11:00
 draft: false
 author: "Handy H."
-categories: ["post","articles"]
+categories: ["post","articles","personal development"]
 images: ["img/malte-wingen-381988-unsplash.jpg"]
 image: "img/malte-wingen-381988-unsplash.jpg"
 ---

@@ -3,7 +3,7 @@ title: "An Open Letter to the Authors of My Childhood"
 date: 2019-03-11T05:00:57+11:00
 draft: false
 author: "Sierra Haigh"
-categories: ["post","articles"]
+categories: ["post","articles","general"]
 images: ["img/freddy-castro-133326-unsplash.jpg"]
 image: "img/freddy-castro-133326-unsplash.jpg"
 ---

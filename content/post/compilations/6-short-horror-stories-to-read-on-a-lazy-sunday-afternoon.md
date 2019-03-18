@@ -3,7 +3,7 @@ title: "6 Short Horror Stories to Read on a Lazy Sunday Afternoon"
 date: 2019-02-10T17:30:08+11:00
 draft: false
 author: "James W."
-categories: ["post","compilations"]
+categories: ["post","compilations","horror"]
 tags: ["short-story","creepypasta"]
 images: ['img/zachary-keimig-1353543-unsplash.jpg']
 image: 'img/zachary-keimig-1353543-unsplash.jpg'

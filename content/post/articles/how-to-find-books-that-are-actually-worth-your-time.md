@@ -3,7 +3,7 @@ title: "How to Find Books That Are Actually Worth Your Time"
 date: 2019-02-12T21:52:29+11:00
 draft: false
 author: "Handy H."
-categories: ["post","articles"]
+categories: ["post","articles","personal development"]
 images: ["img/patrick-tomasso-71909-unsplash.jpg"]
 image: "img/patrick-tomasso-71909-unsplash.jpg"
 ---

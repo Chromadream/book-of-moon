@@ -3,7 +3,7 @@ title: "The Gift of Nihilism, depression, and \"No Longer Human\""
 date: 2019-03-02T23:00:08+11:00
 draft: false
 author: "Sao Hew"
-categories: ["post","articles"]
+categories: ["post","articles","biography"]
 images: ["img/alex-42193-unsplash.jpg"]
 image: "img/alex-42193-unsplash.jpg"
 ---

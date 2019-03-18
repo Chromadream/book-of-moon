@@ -1,9 +1,9 @@
 ---
-title: "What I Learned From Reading Tim Feriss Tribe of Mentors"
+title: "What I Learned From Reading Tim Feris's Tribe of Mentors"
 date: 2019-02-15T19:10:31+11:00
 draft: false
 author: "Handy H."
-categories: ["post","articles"]
+categories: ["post","articles","personal development"]
 images: ["img/joshua-ness-225844-unsplash.jpg"]
 image: "img/joshua-ness-225844-unsplash.jpg"
 ---

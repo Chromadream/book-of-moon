@@ -3,7 +3,7 @@ title: "Brooklyn: Don't Judge a Book Based on the Movie"
 date: 2019-03-05T22:26:46+11:00
 draft: false
 author: "Amber Cull"
-categories: ["post","articles"]
+categories: ["post","articles","fiction"]
 images: ["img/53140474_967664073623536_4654625091408101376_n.jpg"]
 image: "img/53140474_967664073623536_4654625091408101376_n.jpg"
 ---

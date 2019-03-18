@@ -3,7 +3,7 @@ title: "Stephen King's Horrifyingly Underappreciated Short Stories"
 date: 2019-03-11T21:07:54+11:00
 draft: false
 author: "Thomas Waddingham"
-categories: ["post","articles"]
+categories: ["post","articles","short stories"]
 images: ["img/andrea-boldizsar-228-unsplash.jpg"]
 image: "img/andrea-boldizsar-228-unsplash.jpg"
 ---

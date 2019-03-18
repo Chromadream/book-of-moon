@@ -3,7 +3,7 @@ title: "Underrated Vampire Novels for Fans of Twilight"
 date: 2019-02-25T20:36:21+11:00
 draft: false
 author: "Afia Lodi"
-categories: ["post","articles"]
+categories: ["post","articles","horror"]
 images: ["img/leonardo-yip-380401-unsplash.jpg"]
 image: "img/leonardo-yip-380401-unsplash.jpg"
 ---

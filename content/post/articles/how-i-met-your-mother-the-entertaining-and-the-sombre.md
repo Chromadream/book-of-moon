@@ -3,7 +3,7 @@ title: "How I Met Your Mother - the Entertaining and the Sombre"
 date: 2019-03-17T22:09:36+11:00
 draft: false
 author: "Sao Hew"
-categories: ["post","articles"]
+categories: ["post","articles","comedy"]
 images: ["img/frederick-tubiermont-1191028-unsplash.jpg"]
 image: "img/frederick-tubiermont-1191028-unsplash.jpg"
 ---

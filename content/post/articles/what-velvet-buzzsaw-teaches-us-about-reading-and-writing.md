@@ -3,7 +3,7 @@ title: "What Velvet Buzzsaw Teaches Us About Reading and Writing"
 date: 2019-03-17T23:13:35+11:00
 draft: false
 author: "Thomas Waddingham"
-categories: ["post","articles"]
+categories: ["post","articles","mystery"]
 images: ["img/49949905_798558270486302_4863913440378355712_n.jpg"]
 image: "img/49949905_798558270486302_4863913440378355712_n.jpg"
 ---

@@ -3,7 +3,7 @@ title: "Blurring the lines of good and evil: A study of Flannery O'Connor's work
 date: 2019-03-04T21:34:16+11:00
 draft: false
 author: "Thomas Waddingham"
-categories: ["post","articles"]
+categories: ["post","articles","horror"]
 images: ["img/mahosadha-ong-790000-unsplash.jpg"]
 image: "img/mahosadha-ong-790000-unsplash.jpg"
 ---

@@ -3,7 +3,7 @@ title: "The Seven Husbands Of Evelyn Hugo: Definitely Not Your Ordinary Romance 
 date: 2019-03-17T23:23:32+11:00
 draft: false
 author: "Alyx Shaw"
-categories: ["post","articles"]
+categories: ["post","articles","romance"]
 images: ["img/tekang-637191-unsplash.jpg"]
 image: "img/tekang-637191-unsplash.jpg"
 ---

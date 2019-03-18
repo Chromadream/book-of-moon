@@ -3,7 +3,7 @@ title: "4 Movies You Didn't Know Were Based on Books"
 date: 2019-02-21T20:20:34+11:00
 draft: false
 author: "Handy H."
-categories: ["post","articles"]
+categories: ["post","articles","fiction"]
 images: ["img/felix-mooneeram-222805-unsplash.jpg"]
 image: "img/felix-mooneeram-222805-unsplash.jpg"
 ---

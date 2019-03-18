@@ -3,7 +3,7 @@ title: "4 Best Books About Personal Development That Will Change Your Life"
 date: 2019-02-10T15:10:10+11:00
 draft: false
 author: "Handy H."
-categories: ["post","compilations"]
+categories: ["post","compilations","personal development"]
 tags: ["how-to-win-friends-and-influence-people","ego-is-the-enemy","think-and-grow-rich","the-magic-of-thinking-big"]
 images: ['img/rawpixel-740323-unsplash.jpg']
 image: 'img/rawpixel-740323-unsplash.jpg'

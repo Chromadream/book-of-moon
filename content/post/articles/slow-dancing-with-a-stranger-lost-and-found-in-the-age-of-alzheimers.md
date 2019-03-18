@@ -3,7 +3,7 @@ title: "Slow Dancing With a Stranger: Lost and Found in the Age of Alzheimer's"
 date: 2019-03-03T17:10:41+11:00
 draft: false
 author: "Nikitha Pooventhan"
-categories: ["post","articles"]
+categories: ["post","articles", "non-fiction"]
 images: ["img/akshay-paatil-492176-unsplash.jpg"]
 image: "img/akshay-paatil-492176-unsplash.jpg"
 ---

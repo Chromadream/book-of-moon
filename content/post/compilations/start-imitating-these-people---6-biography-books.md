@@ -3,7 +3,7 @@ title: "Start Imitating These People - 6 Biography Books"
 date: 2019-02-10T15:27:58+11:00
 draft: false
 author: "Handy H."
-categories: ["post","compilations"]
+categories: ["post","compilations","biography"]
 tags: ["steve-jobs","cristiano-ronaldo","shoe-dog","mamba-mentality","becoming"]
 images: ['img/samuel-zeller-358865-unsplash.jpg']
 image: 'img/samuel-zeller-358865-unsplash.jpg'

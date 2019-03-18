@@ -3,7 +3,7 @@ title: "Develop a Daily Reading Habit"
 date: 2019-02-11T22:19:38+11:00
 draft: false
 author: "Handy H."
-categories: ["post","articles"]
+categories: ["post","articles", "personal development"]
 images: ["img/annie-spratt-76930-unsplash.jpg"]
 image: "img/annie-spratt-76930-unsplash.jpg"
 ---

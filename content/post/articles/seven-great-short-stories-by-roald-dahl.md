@@ -3,7 +3,7 @@ title: "Seven Great Short Stories by Roald Dahl"
 date: 2019-03-17T22:09:14+11:00
 draft: false
 author: "James W."
-categories: ["post","articles"]
+categories: ["post","articles","short stories"]
 images: ["img/sharon-mccutcheon-532782-unsplash.jpg"]
 image: "img/sharon-mccutcheon-532782-unsplash.jpg"
 ---

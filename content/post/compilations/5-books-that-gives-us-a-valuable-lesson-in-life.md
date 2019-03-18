@@ -3,7 +3,7 @@ title: "5 Books That Gives Us a Valuable Lesson in Life"
 date: 2019-02-10T14:59:03+11:00
 draft: false
 author: "Handy H."
-categories: ["post","compilations"]
+categories: ["post","compilations","personal development"]
 tags: ["tuesday-with-morrie","alchemist","last-lecture","mans-search-for-meaning","perks-of-being-a-wallflower"]
 images: ['img/rawpixel-661940-unsplash.jpg']
 image: 'img/rawpixel-661940-unsplash.jpg'
