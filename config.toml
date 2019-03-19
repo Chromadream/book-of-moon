@@ -12,9 +12,22 @@ tag = "tags"
 [[menu.global]]
   name = "Categories"
   url = "/categories"
+
 [[menu.global]]
-  name = "Compilations"
-  url = "/categories/compilations/"
+  name = "Fiction"
+  url = "/categories/fiction/"
+
+[[menu.global]]
+  name = "Romance"
+  url = "/categories/romance/"
+
+[[menu.global]]
+  name = "Horror"
+  url = "/categories/horror/"
+
+[[menu.global]]
+  name = "Personal Development"
+  url = "/categories/personal-development/"
 
 [[menu.global]]
   name = "About"
