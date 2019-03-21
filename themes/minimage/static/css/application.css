@@ -30,7 +30,7 @@ html,
 body {
     background-color: #fff;
     line-height: 1.6;
-    font-family: "游ゴシック", YuGothic, "ヒラギノ角ゴ Pro", "Hiragino Kaku Gothic Pro", "メイリオ", "Meiryo", sans-serif;
+    font-family: serif;
     font-size: 16px;
     color: #494949
 }
@@ -83,6 +83,17 @@ button {
 .c-global-header__utility {
     text-align: right;
     width: 40%
+}
+
+.c-global-header__utility i {
+    font-size: 167%
+}
+
+.c-global-header__utility a {
+    color: #494949
+}
+.c-global-header__utility a:visited {
+    color: #494949
 }
 
 .c-main-content {
@@ -325,7 +336,6 @@ button {
 
 .c-post__body {
     margin-top: 4rem;
-    margin-right: 3.2rem;
 }
 
 .c-post__body *+* {
@@ -335,7 +345,7 @@ button {
 .c-post__body h2 {
     margin-top: 2.6em;
     line-height: 1.8;
-    font-size: 1.5rem
+    font-size: 2rem
 }
 
 .c-post__body h3 {
@@ -382,7 +392,8 @@ button {
 }
 
 .c-post__body p {
-    line-height: 2.1
+    line-height: 1.8;
+    font-size: 1.21em;
 }
 
 .c-post__body p>code {
