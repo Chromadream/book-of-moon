@@ -1,7 +1,7 @@
 ---
 title: "Moth Smoke"
 date: 2019-03-25T21:41:41+11:00
-draft: true
+draft: false
 author: "Komal Rehan"
 categories: ["post","articles","fiction"]
 images: ["img/55929365_317724895607909_5156042517258436608_n.jpg"]
