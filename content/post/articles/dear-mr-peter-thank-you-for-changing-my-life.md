@@ -24,6 +24,6 @@ There grew my love for books. My love for expressing thoughts, feelings and even
 
 The Boy with the Red Balloon is about a boy and his best friend- A red balloon in the captivating city of Paris. The balloon follows him around (as scary as it sounds) and acts as his friend, protecting him from bullies and offering solace in a big city. The story conveys a beautiful message about hope, light, friendship, reflection, and innocence.
 
-![three](/static/inline/heading-gifs/nikita25/three.jpg)
+![three](/inline/heading-gifs/nikita25/three.jpg)
 
 The book taught me resilience, patience, and proved that through so many trials, hard work, faith and hope pays. When one hits rock bottom, it’s easy to forget the reason for it all, but there’s so much more than just getting a degree, then having a desk job. Yes those are quite necessary but if your road is a lot bumpier than others, it just means that you might take longer but you’ll get there.
